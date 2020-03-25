@@ -11,7 +11,7 @@ public class helloworld {
         System.out.println("你好");
 
         ArrayList a = new ArrayList();
-
+        System.out.println("aa");
     }
 
     public void say() {
