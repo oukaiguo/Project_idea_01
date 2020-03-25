@@ -12,6 +12,7 @@ public class helloworld {
 
         ArrayList a = new ArrayList();
         System.out.println("aa");
+        System.out.println("bb");
     }
 
     public void say() {
